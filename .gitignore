@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 resource/
+llm/llm_openai.py
 # C extensions
 *.so
 
